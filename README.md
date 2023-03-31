@@ -1,11 +1,3 @@
-# 360壁纸站
-
-[演示站点](https://wper.ztyang.com)
-
-界面展示
-![](https://qiniu.ztyang.com/img/20220630202720.png)
-
-
 # 360壁纸API
 
 1. 获取壁纸分类
